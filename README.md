@@ -15,9 +15,6 @@ Web Developer
 
 <br>
 
-
-*Vitor Belarmino* aprendendo programação. <br><br>
-
 Some information about me:
 
 * 🌍  I'm based in Nova Iguaçu, Rio de Janeiro - Brazil
