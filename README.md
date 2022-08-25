@@ -7,7 +7,7 @@
 ==============
 
 
-Web Developer
+Fullstack developer
 
 
 ==============
