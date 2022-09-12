@@ -18,7 +18,7 @@ Fullstack developer
 Some information about me:
 
 * 🌍  I'm based in Nova Iguaçu, Rio de Janeiro - Brazil
-* ✉  You can contact me at [vitor.belarmino@hotmail.com]
+* ✉  You can contact me at vitor.belarmino@hotmail.com
 * 🧠  I'm learning TypeScript, MongoDb, Sequelize among others.
 * 🤝  I'm open to collaboration on fullStack developments.
 
