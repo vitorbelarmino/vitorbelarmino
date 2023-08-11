@@ -19,7 +19,6 @@ Algumas informações sobre mim:
 
 * 🌍  Resido em Nova Iguaçu, Rio de Janeiro - Brazil
 * ✉   Como entrar em contato vitor.belarmino@hotmail.com
-* 🧠  Estou aprendendo Python.
 * 🤝  Estou disponivél para oportunidades em desensolvimento web.
 
 
