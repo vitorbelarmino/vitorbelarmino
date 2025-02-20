@@ -64,7 +64,7 @@ src="https://img.shields.io/github/followers/vitorbelarmino?logo=github&style=fo
 <a href="https://www.linkedin.com/in/vitor-belarmino/" rel="noreferrer"><img
 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &ensp;<a href="https://www.instagram.com/vitor_belarmino/" rel="noreferrer"><img
 src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
-
+<!--
 ### Badges
 <p>My GitHub Stats</p>
 
@@ -74,3 +74,4 @@ src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=inst
 
 <a href="https://github.com/vitorbelarmino" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbelarmino&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+-->
